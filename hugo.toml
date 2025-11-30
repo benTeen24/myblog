@@ -1,0 +1,4 @@
+baseURL = 'https://benTeen24.github.io/myBlog/'
+languageCode = 'en-us'
+title = 'Pavan Anandareddy'
+theme = 'PaperMod'
